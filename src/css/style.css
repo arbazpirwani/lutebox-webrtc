@@ -1,0 +1,158 @@
+
+        body{
+        background: #000;
+        }
+
+        *{
+        margin: 0;
+        padding: 0;
+        font-family: "Lato", sans-serif;
+        }
+
+        ._53mv {
+        display: block;
+        left: 0;
+        margin: 0 auto;
+        max-width: 1792px;
+        width: calc(100% + 2px);
+        position: fixed;
+        right: 0;
+        top: 0;
+        height: 100%;
+        transform: scaleX(-1);
+        object-fit: cover;
+
+        }
+
+        ._30bvc{
+        bottom:0;
+        width:100%;
+        height:88px;
+        background:#fff;
+        position:fixed;
+        display:flex;
+        flex-direction: row;
+        }
+
+
+        ._30bvlp{
+        flex-grow:1;
+        height:100%;
+        }
+
+
+        ._30bvcp{
+        flex-grow: 1;
+        height: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        }
+
+        ._30bvrp{
+        flex:1;
+        height:100%;
+        }
+
+        ._33_vcpic{
+        width: 56px;
+        height: 56px;
+        border: 1px solid rgba(38,50,56,0.149);
+        border-radius: 50%;
+        display:flex;
+        justify-content: center;
+        text-align: center;
+        align-items:center;
+        cursor: pointer;
+        transition:1s
+
+        }
+
+        ._33_vcpic:hover{
+        box-shadow:0 8px 10px 1px rgba(0,0,0,0.14), 0 3px 14px 2px rgba(0,0,0,0.12), 0 5px 5px -3px rgba(0,0,0,0.2);
+        background:#e6e9eb
+        }
+
+        ._33icm{
+            fill: #455a63
+        }
+
+        ._33icc{
+            fill: #ff5252
+        }
+        ._33icv{
+            fill: #455a63
+        }
+
+        ._33_vcpicc{
+        margin-left: 16px;
+        margin-right: 16px;
+        }
+
+        .abc{
+        fill:red;
+        }
+
+
+        ._20lsn {
+        height: 100%;
+        width: 0px;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        right: 0;
+        background-color: #fff;
+        overflow-x: hidden;
+        transition: 0.5s;
+        }
+
+        ._20lsn a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-weight: lighter;
+        color: #818181;
+        margin-bottom: 10px;
+        display: block;
+        }
+
+
+        ._20lsnv{
+        width: 100px;
+        height: 56px;
+        background: black;
+        object-fit: cover;
+        transform: scaleX(-1);
+        }
+        ._20lsnd{
+            display: flex;
+            flex-direction: row;
+        }
+
+        ._20lun{
+            align-self: center;
+            margin-left: 12px;
+            font-size: 13px
+        }
+
+        ._43tov{
+            width: 80px;
+            height: 40px;
+            background: #fff;
+            position: fixed;
+            top: 0;
+            right: 0;
+            display: flex;
+            cursor: pointer;
+            justify-content: center;
+            border-bottom-left-radius: 8px;
+            box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2)
+        }
+
+        ._43tovs{
+            fill: #455a63;
+            align-self: center;
+        }
+
+
+
